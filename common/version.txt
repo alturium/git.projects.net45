@@ -5,3 +5,5 @@ improvements made to this library, try merging to projects.net45
 more improvements made
 
 made a 4.5 improvement, that needs to be merged to 6.0
+
+yet another 4.5 improvement, merge this to 6.0
